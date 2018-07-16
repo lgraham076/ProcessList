@@ -2,5 +2,8 @@
 name = "processlist"
 version = "0.1.0"
 authors = ["Langston Graham - langstongraham@gmail.com"]
-repository = ""
+repository = "https://github.com/lgraham076/ProcessList"
 description = "Creates process table from /proc"
+
+[dependencies]
+glob = "0.2"
