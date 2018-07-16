@@ -1,0 +1,6 @@
+[package]
+name = "processlist"
+version = "0.1.0"
+authors = ["Langston Graham - langstongraham@gmail.com"]
+repository = ""
+description = "Creates process table from /proc"
